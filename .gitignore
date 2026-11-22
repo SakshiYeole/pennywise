@@ -15,6 +15,7 @@ private/
 
 # ---- generated output --------------------------------------------------------
 reports/
+recordings/
 *.tmp
 
 # ---- planning notes (kept locally, not part of the repo) ---------------------
