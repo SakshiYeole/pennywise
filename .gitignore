@@ -1,0 +1,40 @@
+# ---- secrets and local config (never commit these) -------------------------
+.env
+.env.*
+.streamlit/secrets.toml
+.claude/
+
+# ---- the raw dataset: big, third-party, fetched on demand --------------------
+# Put transactions-synthetic.csv in data/raw/ (see README, "Data files").
+# The folder itself is kept in git through data/raw/.gitkeep.
+data/raw/*
+!data/raw/.gitkeep
+
+# ---- your own statements: keep real bank files here, never in samples/ ----
+private/
+
+# ---- generated output --------------------------------------------------------
+reports/
+*.tmp
+
+# ---- planning notes (kept locally, not part of the repo) ---------------------
+PLAN.md
+plan/
+docs/plan/
+
+# ---- python environments, caches and build output ----------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# ---- editor and OS files -----------------------------------------------------
+.DS_Store
+.idea/
+.vscode/
+*.log
