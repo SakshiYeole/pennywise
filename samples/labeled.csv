@@ -1,0 +1,18 @@
+date,description,amount,expected_category
+2026-10-31,[debit] TACOS EL GORDO,15.84,Restaurants
+2026-10-03,[debit] WEGMANS #7410,151.40,Groceries
+2026-10-12,[debit] TARGET #8563 NASHVILLE,151.96,Shopping
+2026-10-07,[debit] Shell*eh8fr9509zxk,22.62,Transportation
+2026-10-14,[debit] BELLAGIO,13.49,Entertainment
+2026-10-18,[debit] SUNPOWER ENERGY,116.41,Utilities
+2026-10-19,[debit] PreApproved Payment Bill User Payment: X CORP. PAID FEATURES,9.33,Subscription
+2026-10-21,[debit] DR LI DENTAL,197.54,Healthcare
+2026-10-19,[debit] LINCOLN FINANCIALBILLING PPD ID: 0604623631,208.82,Insurance
+2026-10-08,[debit] LOANDEPOT ESCROW,1546.58,Mortgage
+2026-10-10,[debit] CAMDEN PROPERTY APT RENT PPD ID: 0205680598,1902.97,Rent
+2026-10-04,[debit] NORWEGIAN CRUISE LINE,565.31,Travel
+2026-10-27,[debit] COMMUNITY COLLEGE OF FREMONT TUITION,279.16,Education
+2026-10-19,[debit] Withdrawal From Bishops Cut,74.98,Personal Care
+2026-10-12,[debit] MONTHLY INSTALLMENTS (1 OF 36),142.56,Transfer
+2026-10-03,[credit] CITY OF PAYROLL PPD ID: 359187368,3718.85,Income
+2026-10-07,[credit] CASH ADVANCE FEE - 90/68,18.89,Fees

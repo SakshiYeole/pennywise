@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "rules": {
+    "alaska airlines": {
+      "category": "Travel",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "amazon mktpl": {
+      "category": "Shopping",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "american home shield": {
+      "category": "Insurance",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "annual fee": {
+      "category": "Fees",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "apple com bill": {
+      "category": "Subscription",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "arco": {
+      "category": "Transportation",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "betterhelp": {
+      "category": "Healthcare",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "brilliant org": {
+      "category": "Education",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "camden property rent": {
+      "category": "Rent",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "casey s": {
+      "category": "Transportation",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "cerebral": {
+      "category": "Healthcare",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "choice home warranty": {
+      "category": "Insurance",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "citgo": {
+      "category": "Transportation",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "dave buster s": {
+      "category": "Entertainment",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "dave s hot": {
+      "category": "Restaurants",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "delta air lines": {
+      "category": "Travel",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "doctor on demand": {
+      "category": "Healthcare",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "el pollo loco": {
+      "category": "Restaurants",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "equinox": {
+      "category": "Personal Care",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "gold s gym": {
+      "category": "Personal Care",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "h e b": {
+      "category": "Groceries",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "inactivity fee": {
+      "category": "Fees",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "invitation homes rent": {
+      "category": "Rent",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "massage envy": {
+      "category": "Personal Care",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "metro by t": {
+      "category": "Utilities",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "mortgage payment": {
+      "category": "Mortgage",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "national car rental": {
+      "category": "Travel",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "navy federal cu": {
+      "category": "Mortgage",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "nba league pass": {
+      "category": "Entertainment",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "netflix": {
+      "category": "Subscription",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "new york life": {
+      "category": "Insurance",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "nhp foundation rent": {
+      "category": "Rent",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "pg and e": {
+      "category": "Utilities",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "pluralsight": {
+      "category": "Education",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "principal pmt": {
+      "category": "Mortgage",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "ranch": {
+      "category": "Groceries",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "school district of": {
+      "category": "Education",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "southern california edison": {
+      "category": "Utilities",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "starbucks": {
+      "category": "Restaurants",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "stop payment fee": {
+      "category": "Fees",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "target": {
+      "category": "Shopping",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "target t": {
+      "category": "Shopping",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "trader joe s": {
+      "category": "Groceries",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "valve steam purchase": {
+      "category": "Entertainment",
+      "source": "seed",
+      "updated": "2026-11-22"
+    },
+    "youtube premium": {
+      "category": "Subscription",
+      "source": "seed",
+      "updated": "2026-11-22"
+    }
+  }
+}
